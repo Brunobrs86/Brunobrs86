@@ -1,4 +1,4 @@
-## 😄   Olá, Eu sou o Bruno Rodrigues   👋
+## 😄   Olá, Eu sou o Bruno Rodrigues, estudante de ciências da computação   👋
 
 ![Brunobrs86 GitHubrs86 stats](https://github-readme-stats.vercel.app/api?username=Brunobrs86&show_icons=true&bg_color=00000000)
 
